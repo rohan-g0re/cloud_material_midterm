@@ -1,0 +1,9 @@
+1. GFS --> Link: https://research.google/pubs/the-google-file-system/
+
+2. Dremel --> Link: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf
+
+3. BigQuery --> Link: https://github.com/tpn/pdfs/blob/master/BigQuery%20Technical%20Whitepaper%20-%20Google.pdf
+
+4. Borg --> Link: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf
+
+5. DynamoDB --> Link: https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store
